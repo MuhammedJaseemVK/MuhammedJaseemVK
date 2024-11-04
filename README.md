@@ -12,7 +12,7 @@
 ![MuhammedJaseemVK GitHub stats](https://github-readme-stats.vercel.app/api?username=MuhammedJaseemVK&show_icons=true&theme=radical)
 <hr></hr>
 
-
+[![An image of @muhammedjaseem's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/muhammedjaseem)](https://holopin.io/@muhammedjaseem)
 [<img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-plain.svg" with="20" height="20">](https://www.linkedin.com/in/muhammed-jaseem-v-k-721b60226/)
 [<img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg" with="20" height="20">](https://www.instagram.com/beingjaseem/)
 [<img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/gmail.svg" with="20" height="20">](mailto:coderjaseem@gmail.com)
